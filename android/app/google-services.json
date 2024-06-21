@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900821622293",
+    "project_id": "workout-buddy-26762",
+    "storage_bucket": "workout-buddy-26762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900821622293:android:3163c87019aa52ceef381c",
+        "android_client_info": {
+          "package_name": "com.example.workout_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900821622293-id4ejaa58h7n09s45reduthk43a37os7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTJrjOY8pXjywiDDKZlkeRihzsro9cn6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900821622293-id4ejaa58h7n09s45reduthk43a37os7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
